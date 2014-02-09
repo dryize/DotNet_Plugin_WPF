@@ -41,7 +41,7 @@ namespace MainWPF
             foreach(String dll in files){
 
                 //Load Dll file
-                var DLL = Assembly.LoadFile(dll);
+                Assembly DLL = Assembly.LoadFile(dll);
 
                 //Iterate through all types in dll to find Plugin class
                 foreach (Type type in DLL.GetExportedTypes())
@@ -74,6 +74,7 @@ namespace MainWPF
 
                         break;
                     }
+                    
                 }
             }
         }
