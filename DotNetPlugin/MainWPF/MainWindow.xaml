@@ -1,0 +1,12 @@
+﻿<Window x:Class="MainWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="270" Width="540" xmlns:my="clr-namespace:PluginDLL;assembly=PluginDLL">
+    <Grid>
+        <Button Content="Load Pluggins" Height="25" HorizontalAlignment="Left" Margin="10,10,0,0" Name="button1" VerticalAlignment="Top" Width="101" Click="button1_Click" />
+        <ScrollViewer Height="207" HorizontalAlignment="Left" Margin="202,12,0,0" Name="scrollViewer1" VerticalAlignment="Top" Width="304">
+            <StackPanel Height="0" Name="stackPanel1" Width="205" />
+        </ScrollViewer>
+        <ListBox Height="110" HorizontalAlignment="Left" Margin="12,49,0,0" Name="listBox1" VerticalAlignment="Top" Width="175" />
+    </Grid>
+</Window>

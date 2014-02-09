@@ -1,0 +1,15 @@
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\MainWPF.exe
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\MainWPF.pdb
+D:\DotNet Plugin\DotNetPlugin\MainWPF\obj\x86\Debug\MainWindow.baml
+D:\DotNet Plugin\DotNetPlugin\MainWPF\obj\x86\Debug\MainWindow.g.cs
+D:\DotNet Plugin\DotNetPlugin\MainWPF\obj\x86\Debug\App.g.cs
+D:\DotNet Plugin\DotNetPlugin\MainWPF\obj\x86\Debug\MainWPF_MarkupCompile.cache
+D:\DotNet Plugin\DotNetPlugin\MainWPF\obj\x86\Debug\MainWPF.g.resources
+D:\DotNet Plugin\DotNetPlugin\MainWPF\obj\x86\Debug\MainWPF.Properties.Resources.resources
+D:\DotNet Plugin\DotNetPlugin\MainWPF\obj\x86\Debug\MainWPF.csproj.GenerateResource.Cache
+D:\DotNet Plugin\DotNetPlugin\MainWPF\obj\x86\Debug\MainWPF.exe
+D:\DotNet Plugin\DotNetPlugin\MainWPF\obj\x86\Debug\MainWPF.pdb
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\MainWPF.exe.config
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\PluginDLL.pdb
+D:\DotNet Plugin\DotNetPlugin\MainWPF\obj\x86\Debug\MainWPF.csprojResolveAssemblyReference.cache
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\PluginDLL.dll

@@ -1,0 +1,16 @@
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\PluginDLL.dll
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\PluginDLL.pdb
+D:\DotNet Plugin\DotNetPlugin\PluginDLL\obj\Debug\PluginDLL_MarkupCompile.cache
+D:\DotNet Plugin\DotNetPlugin\PluginDLL\obj\Debug\PluginDLL_MarkupCompile.lref
+D:\DotNet Plugin\DotNetPlugin\PluginDLL\obj\Debug\Themes\Generic.baml
+D:\DotNet Plugin\DotNetPlugin\PluginDLL\obj\Debug\PluginDLL.g.resources
+D:\DotNet Plugin\DotNetPlugin\PluginDLL\obj\Debug\PluginDLL.Properties.Resources.resources
+D:\DotNet Plugin\DotNetPlugin\PluginDLL\obj\Debug\PluginDLL.csproj.GenerateResource.Cache
+D:\DotNet Plugin\DotNetPlugin\PluginDLL\obj\Debug\PluginDLL.dll
+D:\DotNet Plugin\DotNetPlugin\PluginDLL\obj\Debug\PluginDLL.pdb
+D:\DotNet Plugin\DotNetPlugin\PluginDLL\obj\Debug\MsgControl.baml
+D:\DotNet Plugin\DotNetPlugin\PluginDLL\obj\Debug\MsgControl.g.cs
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\plugin\PluginDLL.dll
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\plugin\PluginDLL.pdb
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\plugins\PluginDLL.dll
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\plugins\PluginDLL.pdb

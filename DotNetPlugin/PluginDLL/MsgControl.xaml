@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="PluginDLL.MsgControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="55" d:DesignWidth="195" Background="#FF1010CE">
+    <Grid Height="48" Width="189" Background="#FFE24848">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="34*" />
+            <ColumnDefinition Width="155*" />
+        </Grid.ColumnDefinitions>
+        <Button Content="Show MSG" Height="24" HorizontalAlignment="Left" Margin="8,12,0,0" Name="button1" VerticalAlignment="Top" Width="173" Click="button1_Click" Grid.ColumnSpan="2" />
+    </Grid>
+</UserControl>

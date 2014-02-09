@@ -1,0 +1,15 @@
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\PluginDLL2_MarkupCompile.cache
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\PluginDLL2_MarkupCompile.lref
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\bin\Debug\PluginDLL2.dll
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\bin\Debug\PluginDLL2.pdb
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\Themes\Generic.baml
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\PluginDLL2.g.resources
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\PluginDLL2.Properties.Resources.resources
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\PluginDLL2.csproj.GenerateResource.Cache
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\PluginDLL2.dll
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\PluginDLL2.pdb
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\CalControl.baml
+D:\DotNet Plugin\DotNetPlugin\PluginDLL2\obj\Debug\CalControl.g.cs
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\plugins\PluginDLL2.dll
+D:\DotNet Plugin\DotNetPlugin\MainWPF\bin\Debug\plugins\PluginDLL2.pdb
